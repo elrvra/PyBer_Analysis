@@ -23,3 +23,8 @@ Deliverable 2: A multiple-line chart of total fares for each city type
 ![alt tag](https://github.com/elrvra/PyBer_Analysis/blob/main/PyBer_Deliverable2.png)
 
 ## Summary
+
+The three business recommendations for the CEO to address disparities among the city types are: 
+1. In rural areas, where population is much lower, ensuring marketing/promotional efforts are consistently populated throughout towns would be good to overrun the market and smaller ride companies (i.e. local taxis) in that area.
+2. In the suburban and urban areas, where population is much higher and more access to city amenities, it may be worth while to look into levels of service that can be offered to riders (i.e. plus, premium, etc), which may possibly boost the average fare per ride and per driver up a bit. 
+3. In all areas, it would be beneficial to have data on the percentage of fare the rider makes versus the company so that we can see if there is any room to add more drivers specifically for the rural and suburban areas and hopefully boost that revenue up.
