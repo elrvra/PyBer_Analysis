@@ -17,7 +17,9 @@ Deliverable 3: A written report for the PyBer analysis (README.md)
 ## Results
 
 Deliverable 1: A ride-sharing summary DataFrame by city type
+![alt tag](https://github.com/elrvra/PyBer_Analysis/blob/main/PyBer_Deliverable1.png)
 
 Deliverable 2: A multiple-line chart of total fares for each city type
+![alt tag](https://github.com/elrvra/PyBer_Analysis/blob/main/PyBer_Deliverable2.png)
 
 ## Summary
